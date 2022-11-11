@@ -1,0 +1,121 @@
+2022-03-08 10:22:23.863507
+2022-03-08 10:28:41.327277
+null
+null
+('https://pizzaletta.com/product/dostavka-pizzu-lviv-pizza-emiliya/', 163)
+2022-03-08 10:33:37.456489
+2022-03-08 10:34:08.503318
+('https://panda-pizza.com.ua/dishes/pizza/pitsa-peperoni', 126.0)
+null
+('https://pizzaletta.com/product/dostavka-piczy-lviv-picza-margaryta/', 138)
+2022-03-09 16:36:02.113045
+('https://panda-pizza.com.ua/dishes/pizza/pitsa-peperoni', 126.0)
+null
+('https://pizzaletta.com/product/dostavka-piczy-lviv-picza-margaryta/', 138)
+2022-03-09 16:37:29.283674
+('https://panda-pizza.com.ua/dishes/pizza/pitsa-peperoni', 126.0)
+null
+('https://pizzaletta.com/product/dostavka-piczy-lviv-picza-margaryta/', 138)
+2022-03-09 16:55:22.000178
+2022-03-09 17:03:57.813739
+('https://panda-pizza.com.ua/dishes/pizza/pitsa-peperoni', 126.0)
+null
+('https://pizzaletta.com/product/dostavka-piczy-lviv-picza-margaryta/', 138)
+2022-03-09 17:07:52.386039
+2022-03-09 17:09:06.557407
+2022-03-09 17:09:49.546192
+2022-03-09 17:10:29.821901
+null
+null
+('https://pizzaletta.com/product/dostavka-pizzu-lviv-pizza-emiliya/', 163)
+2022-03-09 17:15:51.125444
+2022-03-09 17:17:22.323340
+('https://panda-pizza.com.ua/dishes/pizza/pitsa-peperoni', 126.0)
+null
+('https://pizzaletta.com/product/dostavka-piczy-lviv-picza-margaryta/', 138)
+2022-03-09 17:19:36.512362
+('https://panda-pizza.com.ua/dishes/pizza/pitsa-peperoni', 126.0)
+null
+('https://pizzaletta.com/product/dostavka-piczy-lviv-picza-margaryta/', 138)
+2022-03-09 17:23:53.268848
+('https://panda-pizza.com.ua/dishes/pizza/pitsa-peperoni', 126.0)
+null
+('https://pizzaletta.com/product/dostavka-piczy-lviv-picza-margaryta/', 138)
+2022-03-09 17:25:25.037163
+2022-03-09 17:27:20.892972
+2022-03-09 17:27:35.717212
+null
+null
+('https://pizzaletta.com/product/dostavka-pizzu-lviv-pizza-emiliya/', 163)
+2022-03-09 17:38:26.993392
+null
+null
+('https://pizzaletta.com/product/dostavka-pizzu-lviv-pizza-emiliya/', 163)
+2022-03-09 17:41:58.561035
+null
+null
+('https://pizzaletta.com/product/dostavka-pizzu-lviv-pizza-emiliya/', 163)
+2022-03-09 18:12:45.149090
+2022-03-09 18:13:40.568879
+2022-03-10 10:02:07.365727
+('https://panda-pizza.com.ua/dishes/pizza/pitsa-peperoni', 126.0)
+null
+('https://pizzaletta.com/product/dostavka-piczy-lviv-picza-margaryta/', 138)
+2022-03-10 10:03:23.021806
+('https://panda-pizza.com.ua/dishes/pizza/pitsa-peperoni', 126.0)
+null
+('https://pizzaletta.com/product/dostavka-piczy-lviv-picza-margaryta/', 138)
+2022-03-10 10:05:57.940431
+('https://panda-pizza.com.ua/dishes/pizza/pitsa-peperoni', 126.0)
+null
+('https://pizzaletta.com/product/dostavka-piczy-lviv-picza-margaryta/', 138)
+2022-03-10 10:25:20.780817
+2022-03-10 10:25:50.180045
+null
+null
+('https://pizzaletta.com/product/dostavka-pizzu-lviv-pizza-emiliya/', 163)
+2022-03-10 10:28:16.726204
+('https://panda-pizza.com.ua/dishes/pizza/pitsa-peperoni', 126.0)
+null
+('https://pizzaletta.com/product/dostavka-pizzu-lviv-pizza-emiliya/', 163)
+2022-03-10 10:30:16.726204
+('https://panda-pizza.com.ua/dishes/pizza/pitsa-peperoni', 126.0)
+null
+null
+2022-03-10 12:38:38.462301
+null
+null
+('https://pizzaletta.com/product/dostavka-pizzu-lviv-pizza-emiliya/', 163)
+2022-03-10 12:52:44.738827
+null
+null
+('https://pizzaletta.com/product/dostavka-pizzu-lviv-pizza-emiliya/', 163)
+2022-03-30 16:20:37.712242
+null
+null
+('https://pizzaletta.com/product/dostavka-pizzu-lviv-pizza-emiliya/', 163)
+2022-09-14 13:45:13.678705
+null
+null
+('https://pizzaletta.com/product/dostavka-pizzu-lviv-pizza-emiliya/', 163)
+2022-09-24 13:08:58.967641
+('https://panda-pizza.com.ua/dishes/pizza/pitsa-romeo', 200.0, 'https://panda-pizza.com.ua/cache/dish/img/dishes/pizza/romeo.jpg?160822')
+null
+null
+2022-09-24 13:13:35.839305
+('https://panda-pizza.com.ua/dishes/pizza/pitsa-romeo', 200.0, 'https://panda-pizza.com.ua/cache/dish/img/dishes/pizza/romeo.jpg?160822')
+null
+null
+2022-10-25 13:14:51.529242
+null
+null
+('https://pizzaletta.com/product/chotyry-syry/', 179.0, 'https://pizzaletta.com/wp-content/uploads/2022/09/xzobrazhennya_2022-10-06_152643392.png.pagespeed.ic.IHUJWN1kj5.webp')
+2022-10-26 13:14:51.529242
+null
+('https://smaki-maki.com/4-siri/', 137.0, 'https://smaki-maki.com/wp-content/uploads/sites/4/2020/05/4-syry-1-645x645.jpg')
+null
+
+2022-10-27 12:53:30.746783
+('https://panda-pizza.com.ua/dishes/pizza/pitsa-romeo', 200.0, 'https://panda-pizza.com.ua/cache/dish/img/dishes/pizza/romeo.jpg?160822')
+null
+null
